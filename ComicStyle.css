@@ -1,4 +1,4 @@
-div{
+.comic-background{
   border-color: #2E0249;
   border-top:solid 70px;
   border-bottom:solid 70px;
@@ -9,7 +9,7 @@ div{
   height:1800px;
 }
 
-h1{
+.comics-title{
   margin-top:20px;
   height:10px;
   padding:0px;
@@ -36,7 +36,7 @@ h1{
   width:50%;
 }
 
-.navigation-bar{
+.navigation-bar-2r{
   position:relative;
   background-color: #2E0249;
   border:0px;
@@ -44,7 +44,7 @@ h1{
   height:60px;
 }
 
-.nav{
+.nav-2{
   font-size: 40px;
   font-family: 'Bangers', cursive;
   text-shadow: 1px 0 0 #100720, 0 -1px 0 #100720, 0 1px 0 #100720, -1px 0 0 #100720;
